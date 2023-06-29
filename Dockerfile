@@ -1,3 +1,4 @@
+
 # Indicando imagem base
 
 FROM nginx:alpine
